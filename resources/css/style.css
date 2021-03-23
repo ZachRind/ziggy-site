@@ -1,0 +1,21 @@
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+    background-color: black;
+    opacity: .8;
+    width: 80%;
+    font-family: cursive;
+}
+
+body {
+    background-color: hotpink;
+    text-align: center;
+}
+
+img {
+    width: 700px;
+    text-align: center;
+    margin: auto;
+}
